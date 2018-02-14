@@ -16,3 +16,6 @@ Theta0 = 0.750150;
 Theta1 =  0.063883;
 
 #Figure: régression linénaire
+
+![image](https://user-images.githubusercontent.com/26171556/36230224-19ea9c04-11b0-11e8-887a-ad3f80537328.png)
+
