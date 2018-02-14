@@ -34,3 +34,6 @@ Age | Taille
 ![image](https://user-images.githubusercontent.com/26171556/36230375-a64b44be-11b0-11e8-9818-ae3565b26f01.png)
 
 # Image de la fonction de coût
+
+![image](https://user-images.githubusercontent.com/26171556/36230435-ccb892b4-11b0-11e8-9fbf-269c59517730.png)
+
