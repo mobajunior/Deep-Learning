@@ -1,4 +1,4 @@
-# INtroduction
+# Introduction
 
 Au cours de l'exercice, nous allons pouvoir prédire la taille des enfants en fonction de leur âge en utilisant la descente de gradient.
 
@@ -14,3 +14,5 @@ On a fixé notre taux d'apprentissage à 0.07.
 Après avoir calculé les thétas, par descente de gradient, on obtient les résultats suivants:
 Theta0 = 0.750150;
 Theta1 =  0.063883;
+
+#Figure: régression linénaire
