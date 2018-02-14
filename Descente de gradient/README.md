@@ -22,3 +22,13 @@ Theta1 =  0.063883;
 # Tableau des prédictions
 
 
+Age | Taille
+-- | --
+3.5 | 0.973742
+5 | 1.069567
+5.5 | 1.101509
+7 | 1.197334
+
+# Affichage des prédictions
+
+
