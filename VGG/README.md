@@ -45,3 +45,6 @@ On voit aussi comment notre pourcentage de perte diminue par rapport à la valid
 ![image](https://user-images.githubusercontent.com/26171556/36401054-3c142454-15ab-11e8-8388-24f9eb509e36.png)
 
 ![image](https://user-images.githubusercontent.com/26171556/36401090-7aae98fc-15ab-11e8-98c2-b5107024954c.png)
+
+![image](https://user-images.githubusercontent.com/26171556/36401113-a1206010-15ab-11e8-82bf-e9d5e655f503.png)
+
