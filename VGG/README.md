@@ -10,3 +10,7 @@ important de la conception d’architecture Conv-net la profondeur. À cette fin
 À partir du fichier ORL_64x64.mat, nous allons extraire la matrice fea de  dimension 400x4095 qui contient les 400 images de taille 64x64 sous forme de  vecteur de dimension 4096 (64x64). Avec notre fichier main.m, nous allons  extraire les images de la matrice, puis faire des rotations de 90, 180, 270 pour  chaque image et les enregistrer dans des dossiers selon le nom des classes.
 
 ![rotation](https://user-images.githubusercontent.com/26171556/36400811-9bd49b78-15a9-11e8-9d68-3748ba6c7590.png)
+
+# Description de l’expérimentation avec la méthodologie
+
+Pour atteindre notre but, on a dû entrainer plusieurs modèles avec différents  paramètres. En changeant le taux d’apprentissage, voilà les résultats qu’on a pu  obtenir :
