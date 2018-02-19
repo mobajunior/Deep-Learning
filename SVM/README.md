@@ -73,4 +73,11 @@ Polynomial | 0.0234 | 0.66
 # Les métriques de performance
 - Moyenne F1 score
 
+SVM | Moyenne   F1 score
+-- | --
+Linéaire | 0.731
+Guassien | 0.767
+Polynomial | 0.748
+
+
 
