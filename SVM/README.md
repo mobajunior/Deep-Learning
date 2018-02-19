@@ -31,4 +31,11 @@ Pour l’apprentissage, on a utilisé quatre algorithmes SVM pour l’apprentiss
 - Polynomial
 Afin de trouver les meilleurs paramètres pour ces algorithmes, on a utilisé la fonction fitcsvm en passant en paramètres OptimizeHyperparameters. Ce dernier nous permet de trouver automatiquement les meilleurs BoxConstraint et les meilleurs KernelScale pour nos SVM.
 <br /> Après avoir éxécuté cette fonction  et obtenu notre SVMModel, on l’applique sur 10 images et on calcule la moyenne des F1 score, il en ressort que  sur les 4 SVM, les 3 meilleurs sont de type: linéaire, gaussien et polynomial.
+<br /> 
+Noms | Moyennes   F1 score | Écarts   type F1 score
+-- | -- | --
+Linéaire | 0.697 | 0.26
+RBF | 0.61 | 0.271
+Gaussien | 0.65 | 0.23
+Polynomial | 0.64 | 0.25
 
