@@ -60,4 +60,5 @@ Dans ce cas aussi, on remarque que notre SVM n’a pas pu différencier la combi
 De nos résultats, on peut déduire que l’extraction des caractéristiques des zones de feux et non feu, joue sur la performance de notre SVM a pouvoir bien classifier les images. Surtout lorsqu’un pixel non feu est extrait des caractéristiques de zones feu, prédomine dans l’image, comme c’était le cas avec les pixels blancs avec l’image montrant le ciel tout blanc.
 On pu constater que le modèle linéaire prenait plus en compte les pixels blancs comme feu que les autres modèles.
 
+# Les paramètres des SVM qui ont obtenus les meilleurs résultats
 
