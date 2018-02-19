@@ -19,6 +19,7 @@ Theta1 =  0.063883;
 
 Nous la fonction sigmoïde, pour pouvoir répartir nos données.
 La formule est la suivante: 
+<br /> ![image](https://user-images.githubusercontent.com/26171556/36397884-cee20992-159a-11e8-9517-4463b88fde3c.png)
 
 # Figure: régression linénaire
 
