@@ -39,3 +39,5 @@ Après analyse des données, on constate plus on itère plus notre accuracy augm
 Pour notre meilleur model vgg_face10, après un certain nombre d’itérations l’accuracy devient constamment à 1.
 
 ![image](https://user-images.githubusercontent.com/26171556/36401034-0ec1ec34-15ab-11e8-92e8-87f1b49eed77.png)
+
+On voit aussi comment notre pourcentage de perte diminue par rapport à la validation.
