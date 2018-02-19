@@ -53,5 +53,7 @@ Vous trouverez toutes les images de segmentations de zones correspondantes aux 3
   ![gaussien](https://user-images.githubusercontent.com/26171556/36399935-89be7a44-15a4-11e8-84c3-452a9bbb46de.png)
 Dans ce cas aussi, on remarque que notre SVM n’a pas pu différencier la combinaison et le casque rouge du pompier comme non feu.
   - Polynomial
+  ![polynomial](https://user-images.githubusercontent.com/26171556/36400046-042adf20-15a5-11e8-96fd-8f511a1a2f66.png)
+
 
 
