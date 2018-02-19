@@ -40,3 +40,9 @@ Gaussien | 0.65 | 0.23
 Polynomial | 0.64 | 0.25
 
 **Résultats F1 score après apprentissage sur 10 images**
+
+# Images résultantes de la segmentation et analyse
+
+Vous trouverez toutes les images de segmentations de zones correspondantes aux 3 meilleurs algorithmes dans les dossiers ayant les noms du type d’algorithme utilisé.
+- Bons résultats:
+  - Linéaire
