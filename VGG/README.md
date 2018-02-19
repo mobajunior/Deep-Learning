@@ -14,3 +14,12 @@ important de la conception d’architecture Conv-net la profondeur. À cette fin
 # Description de l’expérimentation avec la méthodologie
 
 Pour atteindre notre but, on a dû entrainer plusieurs modèles avec différents  paramètres. En changeant le taux d’apprentissage, voilà les résultats qu’on a pu  obtenir :
+
+
+Noms | Taux d'apprentissage | nb_epoch | Accuracy
+-- | -- | -- | --
+vgg7 | 0.0001 | 7 | 97.92%
+vgg8 | 0.001 | 7 | 34.58%
+vgg9 | 0.01 | 7 | 25.00%
+vgg10 | 0.0001 | 10 | 100%
+
