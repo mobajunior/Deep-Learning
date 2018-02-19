@@ -23,12 +23,6 @@ Z | sigmoïde
 5 | 0.993307
 -5 | 0.006693
 
-Z | sigmoïde
--- | --
-0 | 0.5
-5 | 0.993307
--5 | 0.006693
-
 # Fonction de coût et gradient
 
 Nous allons implémenter une fonction de coût  qui va nous permettre de calculer les gradients  dans costFunction.m
