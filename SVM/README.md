@@ -4,6 +4,8 @@ Au cours de cet exercice, nous allons essayer classifier les pixels d’images, 
 
 # Description de la base de données
 
+NB: Veillez me contacter pour la base de données.
+
 Notre base de données contient 30 images qui montrent des régions de feux à prédominance rouge (RGB), en plus des 30 images Groud truth qui montrent la segmentation des régions de feux en noir et blanc.
 
 ![image](https://user-images.githubusercontent.com/26171556/36399211-319cc882-15a1-11e8-9734-afbefbb45389.png)
