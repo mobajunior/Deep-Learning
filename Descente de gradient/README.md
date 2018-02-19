@@ -15,20 +15,6 @@ Après avoir calculé les thétas, par descente de gradient, on obtient les rés
 Theta0 = 0.750150;
 Theta1 =  0.063883;
 
-# Sigmoïde
-
-Nous allons la fonction sigmoïde, pour pouvoir répartir nos données.
-La formule est la suivante: 
-<br /> ![image](https://user-images.githubusercontent.com/26171556/36397884-cee20992-159a-11e8-9517-4463b88fde3c.png)
-
-# Fonction de coût et gradient
-
-Nous allons implémenter une fonction de coût  qui va nous permettre de calculer les gradients  dans costFunction.m
-<br /> function [J, grad] = costFunction(theta, X, y)
-<br /> Les équations de la fonction de coût et des gradients:
-<br />![fct_cout_gradient](https://user-images.githubusercontent.com/26171556/36398344-0c6569d8-159d-11e8-913a-46bbb8041c87.png)
-
-
 # Figure: régression linénaire
 
 ![image](https://user-images.githubusercontent.com/26171556/36230224-19ea9c04-11b0-11e8-887a-ad3f80537328.png)
