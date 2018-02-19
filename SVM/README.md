@@ -70,4 +70,7 @@ Polynomial | 0.0234 | 0.66
 
 **Paramètres des SVM qui ont obtenus les meilleurs résultats**
 
+# Les métriques de performance
+- Moyenne F1 score
+
 
