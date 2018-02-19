@@ -1,7 +1,6 @@
 %Nom: Moussa Bâ
-%NI: A00170392
-%TP4
-%Au cours de ce tp nous allons développer un système de classification en
+
+%Au cours de ce exercice nous allons développer un système de classification en
 %utilisant les SVM pour classifier des pixels d'une image comme étant des
 %pixels feu ou non feu
 
