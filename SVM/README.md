@@ -79,5 +79,8 @@ Linéaire | 0.731
 Guassien | 0.767
 Polynomial | 0.748
 
+**Moyennes F1 score pour les 30 images**
 
+- F1 score des images
+	Vous trouverez tous les noms des  images avec leurs F1 scores dans les 	fichiers excel f1_score_linear, f1_score_gauss et f1_score_poly.
 
