@@ -15,6 +15,11 @@ Après avoir calculé les thétas, par descente de gradient, on obtient les rés
 Theta0 = 0.750150;
 Theta1 =  0.063883;
 
+# Sigmoïde
+
+Nous la fonction sigmoïde, pour pouvoir répartir nos données.
+La formule est la suivante: 
+
 # Figure: régression linénaire
 
 ![image](https://user-images.githubusercontent.com/26171556/36230224-19ea9c04-11b0-11e8-887a-ad3f80537328.png)
