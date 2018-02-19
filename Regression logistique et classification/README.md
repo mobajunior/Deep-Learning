@@ -37,6 +37,9 @@ Après avoir trouvé les thétas et la fonction de coût, nous avons pu prédire
 
 # Affichage de la valeur prédite
 Le rond bleu avec un signe plus représente la prédiction qu’un étudiant qui a eu à l’examen 1 = 45 et l’examen 2 =
-85
+85.
+
+![predict](https://user-images.githubusercontent.com/26171556/36398873-899d2a24-159f-11e8-9200-f61928ff10e5.png)
+
 
 
