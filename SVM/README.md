@@ -62,3 +62,10 @@ On pu constater que le modèle linéaire prenait plus en compte les pixels blanc
 
 # Les paramètres des SVM qui ont obtenus les meilleurs résultats
 
+Nom   image | Box   constraint | Kernel scale
+-- | -- | --
+Linéaire | 0.001 | 0.00106
+Gaussien | 46.25 | 0.759
+Polynomial | 0.0234 | 0.66
+
+
