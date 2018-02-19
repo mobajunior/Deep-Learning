@@ -32,3 +32,4 @@ Après analyse des données, on constate plus on itère plus notre accuracy augm
 
 ![image](https://user-images.githubusercontent.com/26171556/36400959-8d4f2ffe-15aa-11e8-9a14-827da3884066.png)
 <br />**Accuracy des différents models**
+<br /> On peut voir dans ce graphe comment l’accuracy augmente en fonction du nombre d’itérations et du taux d’apprentissage.
