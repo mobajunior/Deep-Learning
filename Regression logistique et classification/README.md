@@ -11,7 +11,7 @@ Vous pouvez visualiser les données données d'entraînement dans la figure ci-d
 
 # Sigmoïde
 
-Nous allons la fonction sigmoïde, pour pouvoir répartir nos données.
+Nous allons utiliser la fonction sigmoïde, pour pouvoir répartir nos données.
 La formule est la suivante: 
 <br /> ![image](https://user-images.githubusercontent.com/26171556/36397884-cee20992-159a-11e8-9517-4463b88fde3c.png)
 
