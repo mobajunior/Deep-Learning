@@ -23,3 +23,6 @@ vgg8 | 0.001 | 7 | 34.58%
 vgg9 | 0.01 | 7 | 25.00%
 vgg10 | 0.0001 | 10 | 100%
 
+# Analyse  des résultats
+
+Après analyse des données, on constate plus on itère plus notre accuracy augmente et nous avons de meilleures prédictions. On constate aussi plus le taux d’apprentissage est grand, plus l’accuracy prend du temps pour augmenter. 
