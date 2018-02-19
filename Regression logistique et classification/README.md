@@ -35,5 +35,8 @@ Nous allons implémenter une fonction de coût  qui va nous permettre de calcule
 
 Après avoir trouvé les thétas et la fonction de coût, nous avons pu prédire qu’ un étudiant qui a eu à l’examen 1 = 45 et l’examen 2 = 85; aura une probabilité de 77.4324 pourcents d’être admis.
 
+# Affichage de la valeur prédite
+Le rond bleu avec un signe plus représente la prédiction qu’un étudiant qui a eu à l’examen 1 = 45 et l’examen 2 =
+85
 
 
