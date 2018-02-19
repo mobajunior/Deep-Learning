@@ -29,5 +29,11 @@ Nous allons implémenter une fonction de coût  qui va nous permettre de calcule
 <br /> function [J, grad] = costFunction(theta, X, y)
 <br /> Les équations de la fonction de coût et des gradients:
 <br />![fct_cout_gradient](https://user-images.githubusercontent.com/26171556/36398344-0c6569d8-159d-11e8-913a-46bbb8041c87.png)
+<br /> La fonction de coût trouvée pour Thétas initialisés à 0 est de : 0.693147
+
+# Probabilité de prédiction
+
+Après avoir trouvé les thétas et la fonction de coût, nous avons pu prédire qu’ un étudiant qui a eu à l’examen 1 = 45 et l’examen 2 = 85; aura une probabilité de 77.4324 pourcents d’être admis.
+
 
 
