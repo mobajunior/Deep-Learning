@@ -51,5 +51,7 @@ Vous trouverez toutes les images de segmentations de zones correspondantes aux 3
   On obtient de bons résultats pour la segmentation, même si, sur quelles zones de l’image, notre SVM classifie des zones blanches comme feu, ceci est dû à l’extraction des zones de feu. Dans la zone de feu extraire, il se peut qu’on est choisi des zones blanches, au lieu de rouge.
   - Gaussien
   ![gaussien](https://user-images.githubusercontent.com/26171556/36399935-89be7a44-15a4-11e8-84c3-452a9bbb46de.png)
+Dans ce cas aussi, on remarque que notre SVM n’a pas pu différencier la combinaison et le casque rouge du pompier comme non feu.
+  - Polynomial
 
 
