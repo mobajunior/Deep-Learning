@@ -21,3 +21,6 @@ On fait de même pour les zones de non feu, mais on ne se base pas sur le centre
 Après avoir obtenu 3 régions de feu et de non feu 10x10 px pour 15 images, on extrait leurs caractéristiques selon plusieurs canaux et on les met dans une matrice de 9000 x 16, dont les 4500 premières rangées représentent les valeurs  des pixels feu selon leur canaux et les 4500 autres les non feux. Vous trouverez les images des caractéristiques des zones de feu extraites dans les dossiers correspondants aux noms des canaux.
 
 # Exemples
+
+![canaux](https://user-images.githubusercontent.com/26171556/36399470-68d341ae-15a2-11e8-8b1b-e104d1dbbf43.png)
+
