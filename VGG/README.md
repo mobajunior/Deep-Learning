@@ -48,3 +48,13 @@ On voit aussi comment notre pourcentage de perte diminue par rapport à la valid
 
 ![image](https://user-images.githubusercontent.com/26171556/36401113-a1206010-15ab-11e8-82bf-e9d5e655f503.png)
 
+On constate pour la couche complétement connectée, la convergence de données.
+Pour nos prédictions, à partir de notre meilleur modèle vgg_face10, on constate que toutes les images ont été bien classifiées suivant la manière dont on avait classifié nos images les 60 premières images de class 0 degré, les 60 prochaines images de classe 90 degré, les 60 prochaines de classe 180 degré et les 60 dernières de classe 270. Vous trouverez le pourcentage pour chaque image dans le fichier texte result_97_9167.txt.
+
+# Conclusion 
+
+À travers ce tp, nous avons pu voir comment le réseau convolutionnel fonctionne, à travers les différentes couches comment l’entraînement, la validation et le testing se fait.
+
+# Description des répertoires
+
+Dans le dossier data, vous trouverez tous les fichiers contenat le chemin des images et leurs classes. Dans le dossier scripts, vous trouverez un fichier main.m pour extraire les images, un fichier access_file.py pour écrire les chemins avec leur classe. Le fichier vgg.py pour générer un réseau convolutionnel de 16 couches. Le fichier data_utils.py pour où sont les fonction helpers permettant de générer la base de données d’images associées aux classes. Vous trouverez dans le dossier models, les différents models obtenus.
