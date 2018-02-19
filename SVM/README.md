@@ -49,14 +49,14 @@ Vous trouverez toutes les images de segmentations de zones correspondantes aux 3
   ![linear](https://user-images.githubusercontent.com/26171556/36399803-f3f802d2-15a3-11e8-9a30-93d8802ecb2e.png)
   
   On obtient de bons résultats pour la segmentation, même si, sur quelles zones de l’image, notre SVM classifie des zones blanches comme feu, ceci est dû à l’extraction des zones de feu. Dans la zone de feu extraire, il se peut qu’on est choisi des zones blanches, au lieu de rouge.
-<br />
+
   - Gaussien
   ![gaussien](https://user-images.githubusercontent.com/26171556/36399935-89be7a44-15a4-11e8-84c3-452a9bbb46de.png)
 Dans ce cas aussi, on remarque que notre SVM n’a pas pu différencier la combinaison et le casque rouge du pompier comme non feu.
-<br />
+
   - Polynomial
   ![polynomial](https://user-images.githubusercontent.com/26171556/36400046-042adf20-15a5-11e8-96fd-8f511a1a2f66.png)
-
+<br />
 De nos résultats, on peut déduire que l’extraction des caractéristiques des zones de feux et non feu, joue sur la performance de notre SVM a pouvoir bien classifier les images. Surtout lorsqu’un pixel non feu est extrait des caractéristiques de zones feu, prédomine dans l’image, comme c’était le cas avec les pixels blancs avec l’image montrant le ciel tout blanc.
 On pu constater que le modèle linéaire prenait plus en compte les pixels blancs comme feu que les autres modèles.
 
