@@ -25,6 +25,9 @@ La formule est la suivante:
 
 Nous allons implémenter une fonction de coût  qui va nous permettre de calculer les gradients  dans costFunction.m
 <br /> function [J, grad] = costFunction(theta, X, y)
+<br /> Les équations de la fonction de coût et des gradients:
+<br />![fct_cout_gradient](https://user-images.githubusercontent.com/26171556/36398344-0c6569d8-159d-11e8-913a-46bbb8041c87.png)
+
 
 # Figure: régression linénaire
 
