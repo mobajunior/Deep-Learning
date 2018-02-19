@@ -17,9 +17,14 @@ Theta1 =  0.063883;
 
 # Sigmoïde
 
-Nous la fonction sigmoïde, pour pouvoir répartir nos données.
+Nous allons la fonction sigmoïde, pour pouvoir répartir nos données.
 La formule est la suivante: 
 <br /> ![image](https://user-images.githubusercontent.com/26171556/36397884-cee20992-159a-11e8-9517-4463b88fde3c.png)
+
+# Fonction de coût et gradient
+
+Nous allons implémenter une fonction de coût  qui va nous permettre de calculer les gradients  dans costFunction.m
+<br /> function [J, grad] = costFunction(theta, X, y)
 
 # Figure: régression linénaire
 
