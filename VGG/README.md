@@ -28,7 +28,7 @@ vgg10 | 0.0001 | 10 | 100%
 Après analyse des données, on constate plus on itère plus notre accuracy augmente et nous avons de meilleures prédictions. On constate aussi plus le taux d’apprentissage est grand, plus l’accuracy prend du temps pour augmenter. 
 
 ![image](https://user-images.githubusercontent.com/26171556/36400939-6b292588-15aa-11e8-9d72-726f730e7afe.png)
-**Légende**
+<br />**Légende**
 
 ![image](https://user-images.githubusercontent.com/26171556/36400959-8d4f2ffe-15aa-11e8-9a14-827da3884066.png)
 <br />**Accuracy des différents models**
