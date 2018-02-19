@@ -46,3 +46,5 @@ Polynomial | 0.64 | 0.25
 Vous trouverez toutes les images de segmentations de zones correspondantes aux 3 meilleurs algorithmes dans les dossiers ayant les noms du type d’algorithme utilisé.
 - Bons résultats:
   - Linéaire
+  ![linear](https://user-images.githubusercontent.com/26171556/36399803-f3f802d2-15a3-11e8-9a30-93d8802ecb2e.png)
+
