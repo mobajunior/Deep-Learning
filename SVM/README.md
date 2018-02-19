@@ -39,3 +39,4 @@ RBF | 0.61 | 0.271
 Gaussien | 0.65 | 0.23
 Polynomial | 0.64 | 0.25
 
+Résultats F1 score après apprentissage sur 10 images
