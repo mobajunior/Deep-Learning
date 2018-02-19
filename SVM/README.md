@@ -71,7 +71,7 @@ Polynomial | 0.0234 | 0.66
 **Paramètres des SVM qui ont obtenus les meilleurs résultats**
 
 # Les métriques de performance
-- Moyenne F1 score
+- **Moyenne F1 score**
 
 SVM | Moyenne   F1 score
 -- | --
@@ -81,8 +81,8 @@ Polynomial | 0.748
 
 **Moyennes F1 score pour les 30 images**
 
-- F1 score des images
-	Vous trouverez tous les noms des  images avec leurs F1 scores dans les 	fichiers excel f1_score_linear, f1_score_gauss et f1_score_poly.
+- **F1 score des images**
+<br /> Vous trouverez tous les noms des  images avec leurs F1 scores dans les 	fichiers excel f1_score_linear, f1_score_gauss et f1_score_poly.
 
 # Conclusion
 À travers ce projet, on a pu apprendre à classifier des régions de feu avec SVM. Ceci nous a permis de connaître les différents modèles de SVM qui nous donnent les meilleures segmentations de zone de feu.  On a pu déduire aussi que l’extraction des zones de feu détermine la bonne segmentation des zones de feu. Ainsi, lorsque durant l’extraction des zones de feu, si on prend des pixels non feu, le résultat de la segmentation sera moindre par rapport à lorsqu’on prend juste des pixels de feu durant l’extraction.
