@@ -12,4 +12,4 @@ Notre base de données contient 30 images qui montrent des régions de feux à p
 # Liste images  et coordonnées utilisées pour apprentissages
 
 - Coordonnées: dans le dossier courant, vous trouverez un fichier excel qui a pour nom coord_fire, qui comporte les noms des images, avec les coordonnées d’extractions des différentes zones de feu, selon leurs numéros. 
-<br />- Liste images: vous trouverez dans le dossier fire_regions toutes les images qu’on a pris pour l’apprentissage avec les zones de feu délimitées par des carrés.
+<br /> - Liste images: vous trouverez dans le dossier fire_regions toutes les images qu’on a pris pour l’apprentissage avec les zones de feu délimitées par des carrés.
