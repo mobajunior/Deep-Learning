@@ -37,3 +37,5 @@ Après analyse des données, on constate plus on itère plus notre accuracy augm
 ![image](https://user-images.githubusercontent.com/26171556/36401014-e570f8a2-15aa-11e8-8072-cf25b75c6406.png)
 
 Pour notre meilleur model vgg_face10, après un certain nombre d’itérations l’accuracy devient constamment à 1.
+
+![image](https://user-images.githubusercontent.com/26171556/36401034-0ec1ec34-15ab-11e8-92e8-87f1b49eed77.png)
