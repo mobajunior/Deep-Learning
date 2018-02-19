@@ -16,12 +16,18 @@ La formule est la suivante:
 <br /> ![image](https://user-images.githubusercontent.com/26171556/36397884-cee20992-159a-11e8-9517-4463b88fde3c.png)
 
 Résultats obtenus:
+
 Z | sigmoïde
 -- | --
 0 | 0.5
 5 | 0.993307
 -5 | 0.006693
 
+Z | sigmoïde
+-- | --
+0 | 0.5
+5 | 0.993307
+-5 | 0.006693
 
 # Fonction de coût et gradient
 
