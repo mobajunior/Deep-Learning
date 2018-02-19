@@ -29,3 +29,6 @@ Après analyse des données, on constate plus on itère plus notre accuracy augm
 
 ![image](https://user-images.githubusercontent.com/26171556/36400939-6b292588-15aa-11e8-9d72-726f730e7afe.png)
 **Légende**
+
+![image](https://user-images.githubusercontent.com/26171556/36400959-8d4f2ffe-15aa-11e8-9a14-827da3884066.png)
+**Accuracy des différents models**
