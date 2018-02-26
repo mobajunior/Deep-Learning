@@ -280,18 +280,6 @@ for i = 1 : 30
         print(gcf, '-dpng', repertory);
         hold off;
         clf('reset')
-    
-    
-    
-%         %puis on fait l'affichage
-%         imshow(label_linear); title('Linéaire');
-%         
-%         %et on l'enregistre
-%         file_name = strcat('img_predict_lineaire', num_img);
-%         repertory = strcat('C:\Users\Moussa BA\Dropbox\4ieme Année\Info 4007\tp\tp3\script\linear\', file_name);
-%         print(gcf, '-dpng', repertory);
-%         hold off;
-%         clf('reset')
     end
     
     %on fait de même pour les autres SVM
@@ -309,16 +297,7 @@ for i = 1 : 30
         repertory = strcat('C:\Users\Moussa BA\Dropbox\4ieme Année\Info 4007\tp\tp3\script\rbf\', file_name{1});
         print(gcf, '-dpng', repertory);
         hold off;
-        clf('reset')
-        
-        
-%         imshow(label_rbf); title('RBF');
-% 
-%         file_name = strcat('img_predict_rbf', num_img);
-%         repertory = strcat('C:\Users\Moussa BA\Dropbox\4ieme Année\Info 4007\tp\tp3\script\rbf\', file_name);
-%         print(gcf, '-dpng', repertory);
-%         hold off;
-%         clf('reset')
+        clf('reset')       
     end
     
     if index_f1_score ~= 3
@@ -338,13 +317,6 @@ for i = 1 : 30
         hold off;
         clf('reset')
         
-%         imshow(label_gauss); title('Gaussian');
-% 
-%         file_name = strcat('img_predict_gauss', num_img);
-%         repertory = strcat('C:\Users\Moussa BA\Dropbox\4ieme Année\Info 4007\tp\tp3\script\gaussian\', file_name);
-%         print(gcf, '-dpng', repertory);
-%         hold off;
-%         clf('reset')
     end
     
     if index_f1_score ~= 4
@@ -364,13 +336,6 @@ for i = 1 : 30
         hold off;
         clf('reset')
         
-%         imshow(label_poly); title('Polynomial');
-% 
-%         file_name = strcat('img_predict_poly', num_img);
-%         repertory = strcat('C:\Users\Moussa BA\Dropbox\4ieme Année\Info 4007\tp\tp3\script\polynomial\', file_name);
-%         print(gcf, '-dpng', repertory);
-%         hold off;
-%         clf('reset')
     end
 end
 
