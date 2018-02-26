@@ -1,4 +1,4 @@
 function g = sigmoid(z)
-    % Calcul de sigmoïde
+    % Calcul de sigmoÃ¯de
     g=1./(1+exp(-z));
 end
