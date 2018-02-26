@@ -1,7 +1,7 @@
 matrix = load('ORL_64x64.mat');
 fea = matrix.fea;
 size(fea);
-current_folder = 'C:\Users\Moussa BA\Dropbox\4ieme Année\Info 4007\tp\tp4';
+current_folder = 'C:\Users\mb\vgg\db';
 mkdir img_0;
 mkdir img_90;
 mkdir img_180;
@@ -16,7 +16,7 @@ for i = 1 : 400
    img_64 = fea(i, :);
    img_64 = reshape(img_64, [64, 64]);
    img = imresize(img_64,[224 224]);
-   %Obtention des images selon leurs différents angles
+   %Obtention des images selon leurs diffÃ©rents angles
    grayImage= mat2gray(img);
    img_0 = cat(3, grayImage, grayImage, grayImage);
    img_90 = imrotate(img_0, 90);
