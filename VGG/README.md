@@ -53,8 +53,8 @@ Pour nos prédictions, à partir de notre meilleur modèle vgg_face10, on consta
 
 # Conclusion 
 
-À travers ce tp, nous avons pu voir comment le réseau convolutionnel fonctionne, à travers les différentes couches comment l’entraînement, la validation et le testing se fait.
+À travers cet exercice, nous avons pu voir comment le réseau convolutionnel fonctionne, à travers les différentes couches comment l’entraînement, la validation et le testing se fait.
 
 # Description des répertoires
 
-Dans le dossier data, vous trouverez tous les fichiers contenat le chemin des images et leurs classes. Dans le dossier scripts, vous trouverez un fichier main.m pour extraire les images, un fichier access_file.py pour écrire les chemins avec leur classe. Le fichier vgg.py pour générer un réseau convolutionnel de 16 couches. Le fichier data_utils.py pour où sont les fonction helpers permettant de générer la base de données d’images associées aux classes. Vous trouverez dans le dossier models, les différents models obtenus.
+Dans le dossier data, vous trouverez tous les fichiers contenat le chemin des images et leurs classes. Dans le dossier scripts, vous trouverez un fichier main.m pour extraire les images, un fichier access_file.py pour écrire les chemins avec leurs classes. Le fichier vgg.py pour générer un réseau convolutionnel de 16 couches. Le fichier data_utils.py pour les fonction helpers permettant de générer la base de données d’images associées aux classes.
