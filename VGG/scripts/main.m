@@ -1,3 +1,5 @@
+%Nom: Moussa Bâ
+
 matrix = load('ORL_64x64.mat');
 fea = matrix.fea;
 size(fea);
