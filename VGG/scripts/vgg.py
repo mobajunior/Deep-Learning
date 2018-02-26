@@ -9,13 +9,13 @@ from tflearn.layers.normalization import local_response_normalization
 from tflearn.layers.estimator import regression
 
 # Load path/class_id image file train:
-dataset_file = '/home/marco/Desktop/tp4_mb/data/train.txt'
+dataset_file = '/home/mb/vgg/data/train.txt'
 
 # Load path/class_id image file validate:
-dataset_file_validate = '/home/marco/Desktop/tp4_mb/data/validate.txt'
+dataset_file_validate = '/home/mb/vgg/data/validate.txt'
 
 # Load path/class_id image file test:
-dataset_file_test = '/home/marco/Desktop/tp4_mb/data/test.txt'
+dataset_file_test = '/home/mb/vgg/data/test.txt'
 
 # Build the preloader array, resize images to 64x64
 from tflearn.data_utils import image_preloader
