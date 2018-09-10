@@ -50,7 +50,7 @@ Vous trouverez toutes les images de segmentations de zones correspondantes aux 3
   - Linéaire
   ![linear](https://user-images.githubusercontent.com/26171556/36399803-f3f802d2-15a3-11e8-9a30-93d8802ecb2e.png)
   
-  On obtient de bons résultats pour la segmentation, même si, sur quelles zones de l’image, notre SVM classifie des zones blanches comme feu, ceci est dû à l’extraction des zones de feu. Dans la zone de feu extraire, il se peut qu’on est choisi des zones blanches, au lieu de rouge.
+  On obtient de bons résultats pour la segmentation, même si, sur quelles zones de l’image, notre SVM classifie des zones blanches comme feu, ceci est dû à l’extraction des zones de feu. Dans la zone de feu extraite, il se peut qu’on est choisi des zones blanches, au lieu de rouge.
 
   - Gaussien
   ![gaussien](https://user-images.githubusercontent.com/26171556/36399935-89be7a44-15a4-11e8-84c3-452a9bbb46de.png)
