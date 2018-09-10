@@ -1,6 +1,6 @@
 # Introduction
 
-Au cours de cet exercice, nous allons essayer classifier les pixels d’images, selon feu ou pas feu. Pour cela, nous allons utiliser SVM qui va nous permettre de trouver des vecteurs de support dont la projection maximise la marge entre les classes.
+Au cours de ce projet, nous allons essayer classifier les pixels d’images, selon feu ou pas feu. Pour cela, nous allons utiliser SVM qui va nous permettre de trouver des vecteurs de support dont la projection maximise la marge entre les classes.
 
 # Description de la base de données
 
